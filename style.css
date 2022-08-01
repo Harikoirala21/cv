@@ -1,0 +1,14 @@
+body {
+    background-color: none;
+    image-resolution: 20px;
+}
+h1{
+    font-size: large;
+    font-family: sans-serif;
+    margin: auto;
+    background text-color: red;
+}
+table {
+    background-color: none;
+    font-size: medium;
+}
